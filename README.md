@@ -1,4 +1,4 @@
 # Demo
 this is my first repo
 <br>
-Author-Sher Nawaz 
+Author-Sher Nawaz (Khatak)
